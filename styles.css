@@ -1,0 +1,15 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#car {
+  width: 50px;
+  height: 100px;
+  background-image: url(car.png);
+  background-size: cover;
+  position: relative;
+}
